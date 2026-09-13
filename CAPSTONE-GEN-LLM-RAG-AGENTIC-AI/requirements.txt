@@ -1,0 +1,15 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.0
+python-multipart==0.0.1
+PyPDF2==3.0.1
+pytest==8.3.1
+requests==2.32.2
+streamlit==1.39.1
+scikit-learn==1.5.2
+sentence-transformers==5.6.1
+torch==2.13.0
+faiss-cpu==1.8.0
+numpy==1.26.4
+pandas==2.2.3
+PyYAML==6.0.2
+chromadb==0.5.4
